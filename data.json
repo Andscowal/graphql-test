@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "John Deer",
+      "email": "jdeer@gmail.com",
+      "age": 122
+    },
+    {
+      "id": "5",
+      "name": "James Caribou",
+      "email": "jcaribou@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "3",
+      "name": "John Buck",
+      "email": "jbuck@gmail.com",
+      "age": 35
+    },
+    {
+      "name": "Edward Nigma",
+      "email": "enigma@gmail.com",
+      "age": 24,
+      "id": "Xji2ztN"
+    }
+  ]
+}
